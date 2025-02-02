@@ -1,5 +1,9 @@
 # Desafio Conta de Banco
 
+## Sobre
+
+Primeiro desafio proposto para o Bootcamp Bradesco - Java Cloud Native. Desafio de projeto "Simulando uma conta bancária atraves do terminal/console". **Nível básico**
+
 ## Descrição do desafio
 
 1. Crie o projeto ContaBanco que receberá dados via terminal, contendo as características de conta em banco conforme atributos abaixo:
